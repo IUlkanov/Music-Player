@@ -14,10 +14,10 @@ let songIndex = 0;
 // Songs info
 const songs = [
     {
-        title: 'Track 1 - Daulet Marat - Suraq',
-        artist: 'Bensound | Daulet Marat',
-        coverPath: 'img/track1.jpeg',
-        discPath: 'music/Daulet_Suraq.mp3',
+        title: 'Track 1 - Benom GULIM ❤',
+        artist: 'Bensound | UzHits.net',
+        coverPath: 'img/guli.jpeg',
+        discPath: 'music/Gulim.mp3',
     },
     {
         title: 'Track 2 - Deep - Dancing',
